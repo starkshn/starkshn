@@ -5,6 +5,9 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshn&layout=compact)](https://github.com/sochubert/github-readme-stats)
+
+https://velog.io/@starksh
+Contact Me! => starkshn97@gamil.com
 <!--
 **starkshn/starkshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
