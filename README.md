@@ -12,6 +12,11 @@
 <img src="https://img.shields.io/badge/Csharp-3DDC84??style=plastic&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000??style=plastic&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB??style=plastic&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JsavaScript-3776AB??style=plastic&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-3776AB??style=plastic&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-3776AB??style=plastic&logo=Python&logoColor=white"/>
+
+
 
 
 ### my Vlog => https://velog.io/@starkshn
