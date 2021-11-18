@@ -8,7 +8,7 @@
 
 
 ### my Vlog => https://velog.io/@starkshn
-### Contact Me! => starkshn97@gamil.com
+### Contact Me! => starkshn97@gmail.com
 <!--
 **starkshn/starkshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
