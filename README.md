@@ -9,7 +9,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/c sharp-3DDC84?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Csharp-3DDC84?style=flat-square&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-3DDC84?style=flat-square&logo=Unity&logoColor=white"/>
 
 
