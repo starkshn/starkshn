@@ -1,9 +1,7 @@
 ## Hi there I am NamYeong 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starkshn&count_private=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
