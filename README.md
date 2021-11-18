@@ -5,7 +5,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshn&show_owner&layout=compact)](https://github.com/starkshn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshn&show_owner=true&layout=compact)](https://github.com/starkshn)
 
 <br />
 
