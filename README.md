@@ -14,8 +14,8 @@
 <br />
 
 
-### Vlog 🔧 https://velog.io/@starkshn
-### Contact Me! 📧 starkshn97@gmail.com
+### Vlog 🛠 https://velog.io/@starkshn
+### Contact Me! 👉 starkshn97@gmail.com
 <!--
 **starkshn/starkshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
