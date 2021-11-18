@@ -1,6 +1,6 @@
 ## Hi there I am NamYeong 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=starkshn&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshn)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
