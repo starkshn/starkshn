@@ -9,7 +9,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/C#-3DDC84?style=flat-square&logo=#239120&logoColor=white"/>
+<img src="https://img.shields.io/badge/C#-3DDC84?style=flat-square&logo=239120&logoColor=white"/>
 
 
 ### my Vlog => https://velog.io/@starkshn
