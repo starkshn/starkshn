@@ -4,7 +4,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshn&theme=radical_icons=true&layout=compact)](https://github.com/sochubert/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshn&_icons=true&layout=compact)](https://github.com/sochubert/github-readme-stats)
 
 
 
