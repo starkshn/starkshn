@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/badge/Unity-000000??style=plastic&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Csharp-239120??style=plastic&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C??style=plastic&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C??style=plastic&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB??style=plastic&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JsavaScript-F7DF1E??style=plastic&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26??style=plastic&logo=HTML5&logoColor=white"/>
