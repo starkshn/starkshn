@@ -9,7 +9,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/csharp-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/C#-3DDC84?style=flat-square&logo=Csharp&logoColor=white"/>
 
 
 ### my Vlog => https://velog.io/@starkshn
