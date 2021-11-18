@@ -8,7 +8,7 @@
 
 <br />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=starkshn)](https://github.com/anuraghazra/github-readme-stats)
 
 ### my Vlog => https://velog.io/@starkshn
 ### Contact Me! => starkshn97@gmail.com
