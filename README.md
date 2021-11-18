@@ -1,10 +1,10 @@
 ## Hi there I am NamYeong 👋
 
-![starkshn Github States](https://github-readme-stats.vercel.app/api?username=starkshn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starkshn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starkshn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### my Vlog => https://velog.io/@starkshn
