@@ -1,7 +1,7 @@
 ## Hi there I am NamYeong 👋
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starkshna&show_icons=true&count_private=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starkshn&show_icons=true&count_private=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
