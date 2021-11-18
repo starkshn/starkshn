@@ -11,6 +11,7 @@
 
 <img src="https://img.shields.io/badge/Csharp-3DDC84?style=flat-square&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-3DDC84?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Pyhton&logoColor=white"/>
 
 
 ### my Vlog => https://velog.io/@starkshn
