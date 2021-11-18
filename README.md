@@ -5,11 +5,11 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starkshn&show_icons=true&count_private=true&count_private=true&theme=synthwave)](https://github.com/starkshn/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starkshn&show_icons=true&count_private=true&count_private=true&theme=radical)](https://github.com/starkshn/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshn&show_owner=true&theme=synthwave&layout=compact)](https://github.com/starkshn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshn&show_owner=true&theme=radical&layout=compact)](https://github.com/starkshn)
 
 <br />
 
