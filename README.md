@@ -1,8 +1,7 @@
 ## Hi there I am NamYeong 👋
 <br />
 
-<img src="https://img.shields.io/badge/Unreal-0E1128??style=plastic&logo=Unreal Engine&logoColor=white">  <img src="https://img.shields.io/badge/C++-FF0044??style=plastic&logo=Cplusplus&logoColor=white">  
-<img src="https://img.shields.io/badge/Unity-000000??style=plastic&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Csharp-239120??style=plastic&logo=csharp&logoColor=white">    
+<img src="https://img.shields.io/badge/Unreal-0E1128??style=plastic&logo=Unreal Engine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000??style=plastic&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4??style=plastic&logo=.NET&logoColor=white"> <img src="https://img.shields.io/badge/C++-FF0044??style=plastic&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Csharp-239120??style=plastic&logo=csharp&logoColor=white">    
 
 
 
