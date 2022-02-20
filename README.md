@@ -3,8 +3,7 @@
 
 <img src="https://img.shields.io/badge/Unreal-000000??style=plastic&logo=Unity&logoColor=white">  <img src="https://img.shields.io/badge/C++-FF0044??style=plastic&logo=Cplusplus&logoColor=white">  
 <img src="https://img.shields.io/badge/Unity-000000??style=plastic&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Csharp-239120??style=plastic&logo=csharp&logoColor=white">    
-
-
+<img src="https://img.shields.io/badge/.NET-239120??style=plastic&logo=.NET&logoColor=green">    
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starkshn&show_icons=true&count_private=true&count_private=true&theme=radical)](https://github.com/starkshn/github-readme-stats)
