@@ -1,10 +1,12 @@
 ## Hi there I am NamYeong 👋
 <br />
 
-<img src="https://img.shields.io/badge/Unreal-000000??style=plastic&logo=Unreal&logoColor=white">  <img src="https://img.shields.io/badge/C++-FF0044??style=plastic&logo=Cplusplus&logoColor=white">  
+<img src="https://img.shields.io/badge/Unreal-#0E1128??style=plastic&logo=Unreal&logoColor=white">  <img src="https://img.shields.io/badge/C++-FF0044??style=plastic&logo=Cplusplus&logoColor=white">  
 <img src="https://img.shields.io/badge/Unity-000000??style=plastic&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Csharp-239120??style=plastic&logo=csharp&logoColor=white">    
-<img src="https://img.shields.io/badge/.NET-239120??style=plastic&logo=.NET&logoColor=green">    
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="20" role="img" aria-label=".NET: Server"><title>.NET: Server</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="82" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="35" height="20" fill="#555"/><rect x="35" width="47" height="20" fill="#97ca00"/><rect width="82" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="250">.NET</text><text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="250">.NET</text><text aria-hidden="true" x="575" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="370">Server</text><text x="575" y="140" transform="scale(.1)" fill="#fff" textLength="370">Server</text></g></svg>
+
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>.NET</title><path d="M24 8.77h-2.468v7.565h-1.425V8.77h-2.462V7.53H24zm-6.852 7.565h-4.821V7.53h4.63v1.24h-3.205v2.494h2.953v1.234h-2.953v2.604h3.396zm-6.708 0H8.882L4.78 9.863a2.896 2.896 0 0 1-.258-.51h-.036c.032.189.048.592.048 1.21v5.772H3.157V7.53h1.659l3.965 6.32c.167.261.275.442.323.54h.024c-.04-.233-.06-.629-.06-1.185V7.529h1.372zm-8.703-.693a.868.829 0 0 1-.869.829.868.829 0 0 1-.868-.83.868.829 0 0 1 .868-.828.868.829 0 0 1 .869.829Z"/></svg>
+
+
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starkshn&show_icons=true&count_private=true&count_private=true&theme=radical)](https://github.com/starkshn/github-readme-stats)
