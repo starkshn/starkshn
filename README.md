@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/C++-FF0044??style=plastic&logo=Cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Csharp-239120??style=plastic&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/API-win32API-blue??style=plastic&logo=csharp&logoColor=white">  
+<img src="https://img.shields.io/badge/API-win32API-blue??style=plastic&logo=C++&logoColor=white">  
 
 <img src="https://img.shields.io/badge/Unreal-0E1128??style=plastic&logo=Unreal Engine&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-000000??style=plastic&logo=Unity&logoColor=white"> 
