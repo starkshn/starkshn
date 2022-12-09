@@ -1,7 +1,8 @@
 ## Hi there I am NamYeong 👋
 <br />
 
-공부 정리 블로그 : https://velog.io/@starkshn/series
+#### 공부 정리 블로그 🛠 https://velog.io/@starkshn/series
+#### E-Mail 📩 starkshn97@gmail.com
 
 <img src="https://img.shields.io/badge/C++-FF0044??style=plastic&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/-win32API-blue??style=plastic&logo=c++&logoColor=white"> <img src="https://img.shields.io/badge/-DirectX11-yellowgreen??style=plastic&logo=c++&logoColor=white"> <img src="https://img.shields.io/badge/Unreal-0E1128??style=plastic&logo=Unreal Engine&logoColor=white">
 
@@ -21,8 +22,7 @@
 <br />
 
 
-#### Velog 🛠 https://velog.io/@starkshn
-#### E-Mail 📩 starkshn97@gmail.com
+
 <!--
 **starkshn/starkshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
