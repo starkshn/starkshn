@@ -1,6 +1,8 @@
 ## Hi there I am NamYeong 👋
 <br />
 
+공부 정리 블로그 : https://velog.io/@starkshn/series
+
 <img src="https://img.shields.io/badge/C++-FF0044??style=plastic&logo=Cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/-win32API-blue??style=plastic&logo=c++&logoColor=white"> <img src="https://img.shields.io/badge/-DirectX11-yellowgreen??style=plastic&logo=c++&logoColor=white"> <img src="https://img.shields.io/badge/Unreal-0E1128??style=plastic&logo=Unreal Engine&logoColor=white">
 
 <img src="https://img.shields.io/badge/Csharp-239120??style=plastic&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000??style=plastic&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4??style=plastic&logo=.NET&logoColor=white">
